@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T12:56:29.541Z" agent="5.0 (Windows)" etag="9p5gBUQ11AHi5lHQjbGg" version="19.0.2" type="github"><diagram id="DZ8Dj9MR2hZbXhJrOcKU" name="Page-1">xVdRb5swEP41aE+rACc0fWyTtF21TtNStcveHHwBbw6OjEnCfv3OYAKUNE2kZnlBvu/uwL7P39k4ZLjY3Cm6jB8lA+H4Lts4ZOT4/sAj+DRAXgI93yuBSHFWQg1gwv+CBV2LZpxB2grUUgrNl20wlEkCoW5hVCm5bofNpWh/dUkj6ACTkIou+sKZju2y/MsavwcexdWXveCq9CxoFWxXksaUyXUDImOHDJWUuhwtNkMQpnZVXcq82ze824kpSPQhCd+u2fOd++V5Pb5+4C+/nh5mq/Cz17OT03m1YmBYAGtKpWMZyYSKcY3eKJklDMxrXbTqmK9SLhH0EPwNWueWTZppiVCsF8J6YcP1T5N+0bfWtOEZbeybCyOvjESrvJFkzGnTV6cVVpVXrs8s6s26WSiVmQphT7F8u/+oikDvKyrZ0ouyALkAnBAmKhBU81V7ItRu0GgbV3OIA0vjEZTaWa6oyOyXnhSPIlAOuUb8u6A5jlExSqYpSgsXFAM+Z6i/CC46+6Fm2xC0jrmGyZIWhVqj5NvMzrkQQymkKnIJ68OA9RBPtZJ/oOEZ+DMSBFt+VqA0bPYz1C2oTSCBlZjtMQNrrmvBepUK44ZYe+6JKPAGHQ7GoDicU2teQ2m17nZr7QM1U/X/90UTnFM03lWHsUcacTwHztofj+Bs2x+9Vnesm+Xp++PhXPfPyjXpcH2PBzPeUTDNd38UY5qY8SQ3T7yAhIrP4FWrdMhtt1nGcjHL0qMb5Xw+98NwV6NkwSzon6hResGBnXJwsk7Z73Bh6l+cVCPOkk/aXNqguFOm0pSeIiPDLVlcFyy4U5nZQJ5EJnbJFdcZFcIsP4zNjjTx1LyPmjnu4K4l23f4+wA2fPcVG5cHshGcjI2gw8bZq9T3/1+V0Kzv44Wv8VNDxv8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T13:15:29.529Z" agent="5.0 (Windows)" etag="yFa_CDnkrh-XzHIAZ-zD" version="19.0.2" type="github">
+  <diagram id="DZ8Dj9MR2hZbXhJrOcKU" name="Page-1">
+    <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NAdVG0IVwEAJiWZTJbvc-2" target="NAdVG0IVwEAJiWZTJbvc-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-2" value="Trigger: Player crosses the bridge." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-18" value="Eerie" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NAdVG0IVwEAJiWZTJbvc-13" target="NAdVG0IVwEAJiWZTJbvc-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-19" value="Magical" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NAdVG0IVwEAJiWZTJbvc-13" target="NAdVG0IVwEAJiWZTJbvc-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-4" value="Peaceful" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAdVG0IVwEAJiWZTJbvc-13" target="Kke0BGWT3q5RP1eteunb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-5" value="Cool" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAdVG0IVwEAJiWZTJbvc-13" target="Kke0BGWT3q5RP1eteunb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-13" value="How did Row and Syd describe the bridge?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAdVG0IVwEAJiWZTJbvc-15" target="Kke0BGWT3q5RP1eteunb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-15" value="Row: And so, the intrepid adventurers crossed the threshold..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAdVG0IVwEAJiWZTJbvc-16" value="Row: Listen. No birds. Spooky, right?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-2" value="Row: I could stay here forever." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-3" value="Row: If we weren&#39;t rushed for time, I would &lt;i&gt;so&lt;/i&gt; challenge you to pooh sticks." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-15" value="Join In" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kke0BGWT3q5RP1eteunb-8" target="Kke0BGWT3q5RP1eteunb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-18" value="Calm Down" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kke0BGWT3q5RP1eteunb-8" target="Kke0BGWT3q5RP1eteunb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-8" value="Dialogue Choice" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-12" value="Syd: Towards certain doom! And their friend, of course." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kke0BGWT3q5RP1eteunb-13" value="Syd: I&#39;m not in the mood for this." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
