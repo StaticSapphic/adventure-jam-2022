@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T00:32:23.192Z" agent="5.0 (Windows)" etag="dAbsLP5H6OUNDYznqo5_" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:25:58.655Z" agent="5.0 (Windows)" etag="MlMKbaDyvs9X_6MNJlKu" version="19.0.2" type="github">
   <diagram id="DZ8Dj9MR2hZbXhJrOcKU" name="Page-1">
-    <mxGraphModel dx="2324" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-38" value="(N)Syd: They are kinda mesmerising, aren&#39;t they?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VS9Qs09J__AlXY4NKtRz-39" value="(D)Syd: You have the expression of a man touched by art." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="VS9Qs09J__AlXY4NKtRz-39" value="(D)Syd: That cart really got to you, huh?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
