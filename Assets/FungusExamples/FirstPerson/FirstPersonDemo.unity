@@ -232,7 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 1026977640}
+  selectedFlowchart: {fileID: 2089339401}
 --- !u!4 &428461411
 Transform:
   m_ObjectHideFlags: 1
@@ -368,7 +368,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -100
     y: 200
-    width: 80
+    width: 75
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -526,7 +526,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 40
     y: 200
-    width: 140
+    width: 142
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1192,17 +1192,6 @@ PrefabInstance:
       objectReference: {fileID: 92124522}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b376fcef73a1f7c4dabdb17903073600, type: 3}
---- !u!114 &1026977640 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114126805715615206, guid: b376fcef73a1f7c4dabdb17903073600, type: 3}
-  m_PrefabInstance: {fileID: 1026977639}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a334fe2ffb574b3583ff3b18b4792d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1140326301
 GameObject:
   m_ObjectHideFlags: 0
@@ -1876,7 +1865,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 191
     y: 130
-    width: 140
+    width: 135
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2394,6 +2383,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1766213715120214, guid: ce35e97bd56b1944d8592fa0e400a240, type: 3}
   m_PrefabInstance: {fileID: 2089339399}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2089339401 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114726772774787118, guid: ce35e97bd56b1944d8592fa0e400a240, type: 3}
+  m_PrefabInstance: {fileID: 2089339399}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089339400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a334fe2ffb574b3583ff3b18b4792d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2089339405 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 114340745163543882, guid: ce35e97bd56b1944d8592fa0e400a240, type: 3}
