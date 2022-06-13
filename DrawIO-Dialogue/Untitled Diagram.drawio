@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T17:13:46.092Z" agent="5.0 (Windows)" etag="ItmAJ4ppNUWvS52rUflp" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T23:05:49.056Z" agent="5.0 (Windows)" etag="GecfrWOinBzex4q0ExiI" version="19.0.3" type="github">
   <diagram id="DZ8Dj9MR2hZbXhJrOcKU" name="Page-1">
-    <mxGraphModel dx="2605" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-3" value="&lt;div&gt;You Fucked It&lt;/div&gt;&lt;div&gt;+1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-5">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="790" as="targetPoint" />
             <Array as="points">
@@ -110,7 +110,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-9" value="(C)Syd: What are you grinning about?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-280" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-12" target="S72nIcbvdbZ05qruvV-Z-24">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-12" target="S72nIcbvdbZ05qruvV-Z-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-220" y="620" />
@@ -146,7 +146,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-30" value="(N)Syd: Same. I&#39;d love to lie down and stare at the sky... Maybe take a nap..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-31">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="790" as="targetPoint" />
             <Array as="points">
@@ -164,7 +164,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-34" value="(H)Syd: You wish! I&#39;m an undefeated pooh sticks champion." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="460.00222222222214" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-35" target="S72nIcbvdbZ05qruvV-Z-24">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-35" target="S72nIcbvdbZ05qruvV-Z-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="620" />
@@ -175,7 +175,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-35" value="(N)Row: That&#39;s &#39;cause you haven&#39;t played against me yet." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-38" target="S72nIcbvdbZ05qruvV-Z-24">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-38" target="S72nIcbvdbZ05qruvV-Z-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="620" />
@@ -192,7 +192,7 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-39" value="(N)Syd: That cart really got to you, huh?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-40">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="790" as="targetPoint" />
             <Array as="points">
@@ -234,83 +234,83 @@
         <mxCell id="VS9Qs09J__AlXY4NKtRz-48" value="Dialogue Choice" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="730" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-51" target="S72nIcbvdbZ05qruvV-Z-4">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-51" target="S72nIcbvdbZ05qruvV-Z-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VS9Qs09J__AlXY4NKtRz-51" value="(N)Syd: ... A fish. It&#39;s just a fish." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="VS9Qs09J__AlXY4NKtRz-51" value="(N)Syd: You&#39;ve got to be kidding me. You&#39;re scared of a &lt;i&gt;fish&lt;/i&gt;?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="590" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-53" target="S72nIcbvdbZ05qruvV-Z-8">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-53" target="S72nIcbvdbZ05qruvV-Z-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VS9Qs09J__AlXY4NKtRz-53" value="(D)Syd: Waah! Rowan look out! A &lt;i&gt;huge&lt;/i&gt; river monster is dragging its way towards you!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS9Qs09J__AlXY4NKtRz-54" target="S72nIcbvdbZ05qruvV-Z-22">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VS9Qs09J__AlXY4NKtRz-54" target="S72nIcbvdbZ05qruvV-Z-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VS9Qs09J__AlXY4NKtRz-54" value="(N)Syd: You&#39;re alright! Just a fish coming up for some food." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="730" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-4" target="S72nIcbvdbZ05qruvV-Z-6">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-4" target="S72nIcbvdbZ05qruvV-Z-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-4" value="&lt;div&gt;You Fucked It&lt;/div&gt;&lt;div&gt;+1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-4" value="&lt;div&gt;You Fucked It&lt;/div&gt;&lt;div&gt;+1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-6">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-6" value="(S)Row: ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-6" value="(S)Row: It... made me jump..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-8" target="S72nIcbvdbZ05qruvV-Z-10">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-8" target="S72nIcbvdbZ05qruvV-Z-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-8" value="(H)Row: Oh &lt;i&gt;I&lt;/i&gt; see what you&#39;re doing. Your trickery won&#39;t-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-8" value="(H)Row: Oh &lt;i&gt;I&lt;/i&gt; see what you&#39;re doing. Your trickery won&#39;t-" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-10" target="S72nIcbvdbZ05qruvV-Z-12">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-10" target="S72nIcbvdbZ05qruvV-Z-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-10" value="(C)Row: ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-10" value="(C)Row: ..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-12" target="S72nIcbvdbZ05qruvV-Z-14">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-12" target="S72nIcbvdbZ05qruvV-Z-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-12" value="(C)Row: Sydney... Turn around." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-12" value="(C)Row: Sydney... Turn around." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-14" target="S72nIcbvdbZ05qruvV-Z-17">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-14" target="S72nIcbvdbZ05qruvV-Z-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-14" value="(H)Syd: No way! You can&#39;t double cross me. I got you first." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-14" value="(H)Syd: No way! You can&#39;t double cross me. I got you first." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-17">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-17" value="(C)Row: &lt;i&gt;Sydney.&lt;/i&gt; This is serious. Please." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-17" value="(C)Row: &lt;i&gt;Sydney.&lt;/i&gt; This is serious. Please." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-21" target="S72nIcbvdbZ05qruvV-Z-24">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-21" target="S72nIcbvdbZ05qruvV-Z-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-21" value="Unlock: BG01 Bridge Trick" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-21" value="Unlock: BG01 Bridge Trick" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="870" y="1030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S72nIcbvdbZ05qruvV-Z-22" target="S72nIcbvdbZ05qruvV-Z-24">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S72nIcbvdbZ05qruvV-Z-22" target="S72nIcbvdbZ05qruvV-Z-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-22" value="(N)Row: I think I&#39;m just psyching myself out. Can we get going?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-22" value="(N)Row: I think I&#39;m just psyching myself out. Can we get going?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S72nIcbvdbZ05qruvV-Z-24" value="Scene End: BG01 Bridge Cross" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="S72nIcbvdbZ05qruvV-Z-24" value="Scene End: BG01 Bridge Cross" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="360" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
